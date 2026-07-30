@@ -1,0 +1,10 @@
+target/
+*.jar
+*.war
+*.class
+.idea/
+.vscode/
+.project
+.settings/
+echo target/ >> .gitignore
+echo *.jar >> .gitignore
