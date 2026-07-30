@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Eazybank loans related  prod APIs"
+  contactDetails:
+    name: "ramya-Developer"
+    email: "ramya@eazybank.com"
+  onCallSupport:
+    -9440713591

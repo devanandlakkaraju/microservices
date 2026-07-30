@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Eazybank cards related QA APIs"
+  contactDetails:
+    name: "ravi-QA Lead"
+    email: "ravi@eazybank.com"
+  onCallSupport:
+    -9440713592

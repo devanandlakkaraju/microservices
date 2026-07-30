@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Eazybank accounts related docker APIs"
+  contactDetails:
+    name: "Pavan-Developer"
+    email: "pavan@eazybank.com"
+  onCallSupport:
+    -9440713591

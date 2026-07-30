@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Eazybank accounts related  qa APIs"
+  contactDetails:
+    name: "koushik-QA Lead"
+    email: "koushik@eazybank.com"
+  onCallSupport:
+    -9440713592

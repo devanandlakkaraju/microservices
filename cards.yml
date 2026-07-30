@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Eazybank cards related  APIs"
+  contactDetails:
+    name: "Pav-Developer"
+    email: "pavan@eazybank.com"
+  onCallSupport:
+    -9440713591

@@ -1,0 +1,11 @@
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Eazybank loans related  APIs"
+  contactDetails:
+    name: "manasa Lead"
+    email: "manasa@eazybank.com"
+  onCallSupport:
+    -9440713598

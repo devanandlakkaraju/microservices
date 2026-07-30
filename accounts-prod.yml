@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Eazybank accounts related  production APIs"
+  contactDetails:
+    name: "Hemchand-Developer"
+    email: "{cipher}745ec1ea76f733b177d4c825717c8d07c38b93b4d79600eb1782d51c4e1aa568e1df2c82930890a6eb247845cf7fadfc"
+  onCallSupport:
+    -9440713593
